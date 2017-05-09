@@ -1,0 +1,1 @@
+Small re-fresh of common patterns
